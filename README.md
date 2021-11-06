@@ -10,6 +10,5 @@ studying for Front-end Developer.
 |**Courses**|**Certificates**|
 |:---|:---|
 |<a href="https://softuni.bg/trainings/3506/programming-basics-with-javascript-september-2021" > Programming Basics with JavaScript </a>| <a href="https://softuni.bg/certificates/details/115964/b10544a5"> 👉📜✔️</a> |
-|<a href="https://softuni.bg/trainings/3530/html-and-css-september-2021"> HTML & CSS </a>|<a 
-href="https://softuni.bg/certificates/details/117775/daef1379"> 👉📜✔️</a>  |
+|<a href="https://softuni.bg/trainings/3530/html-and-css-september-2021"> HTML & CSS </a>|<a href="https://softuni.bg/certificates/details/117775/daef1379"> 👉📜✔️</a>  |
 |<a href="https://softuni.bg/trainings/3575/reactjs-november-2021/"> ReactJS </a>| Soon™ 👨‍💻 |
