@@ -14,4 +14,4 @@ studying for Front-end Developer.
 |<a href="https://softuni.bg/trainings/3575/reactjs-november-2021/"> JavaScript Advanced </a>| Soon™ 👨‍💻 |
 |<a href="https://softuni.bg/trainings/3530/html-and-css-september-2021"> HTML & CSS </a>|<a href="https://softuni.bg/certificates/details/117775/daef1379"> 👉📜✔️</a>  |
 |<a href="https://softuni.bg/trainings/3603/angular-march-2022"> Angular </a>| Soon™ 👨‍💻 |
-|<a href="https://softuni.bg/trainings/3575/reactjs-november-2021/"> JavaScript Advanced </a>| Soon™ 👨‍💻 |
+
